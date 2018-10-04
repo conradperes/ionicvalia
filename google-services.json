@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "146037119838",
+    "firebase_url": "https://pushappvalia.firebaseio.com",
+    "project_id": "pushappvalia",
+    "storage_bucket": "pushappvalia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146037119838:android:ac55590648157069",
+        "android_client_info": {
+          "package_name": "com.valia.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146037119838-0233ln8e0ldj7p4nek4n8q4c9788e0rn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZYdC4vpY-1mRbvOrpATZ-CE-GvciDgIo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
